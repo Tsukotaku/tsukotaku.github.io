@@ -3,5 +3,8 @@
 
 @import "{{ site.theme }}";
 body {
-  background: linear-gradient(#0e0403, #583231);
+  background: #171717;
+  background-image: url("https://i.imgur.com/jB4Dsm9.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
