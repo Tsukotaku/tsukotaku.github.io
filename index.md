@@ -1,5 +1,3 @@
-![enter image description here](https://github.com/Tsukotaku/tsukotaku.github.io/blob/main/assets/img/logo_sharpened.png?raw=true)
-
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Tsukotaku/tsukotaku.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
