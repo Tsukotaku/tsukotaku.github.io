@@ -1,6 +1,6 @@
 ---
 title: Dolls & Enemies
-layout: default
+layout: units
 filename: units
 ---
 
