@@ -6,4 +6,4 @@ filename: units
 
 |M1931 B-4                               |M10 Wolverine|FlaK 36                       |
 |-------------------------------|-------------------------------|-------------------------------|
-|!(/assets/img/dolls/m1931b4/list_preview.png)|![enter image description here](https://i.imgur.com/DmVtshe.png)|![enter image description here](https://i.imgur.com/V5A36uM.png)
+|![enter image description here](/assets/img/dolls/m1931b4/list_preview.png)|![enter image description here](https://i.imgur.com/DmVtshe.png)|![enter image description here](https://i.imgur.com/V5A36uM.png)
