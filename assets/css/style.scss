@@ -23,3 +23,9 @@ body {
   display: inline-block;
   text-align: center;
 }
+#header nav ul li a:hover {
+ background:linear-gradient(#b95b5b, #9a3a3a);
+ background-color:#9a3a3a;
+ border:0px solid #527f0e;
+ box-shadow:inset 0px 1px 1px rgba(0,0,0,0.2),0px 1px 0px transparent
+}
