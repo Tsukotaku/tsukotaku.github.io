@@ -1,5 +1,4 @@
 ## Welcome to the Ash Arms Wiki
-![Divider](/assets/img/Camp_BG_SE104_Near.png)
 This website is maintained by the staff and volunteers from the Discord of the Ash Arms English Community ([https://discord.gg/FKDeJ5Q](https://discord.gg/FKDeJ5Q)). We are currently in process of making content for this Wiki and structuring pages. Our progress is as follow:
 
  - *Beginner's Guide* = 0%
