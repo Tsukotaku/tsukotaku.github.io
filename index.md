@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to the Ash Arms Wiki
+![Divider](/assets/img/Camp_BG_SE104_Near.png)
+This website is maintained by the staff and volunteers from the Discord of the Ash Arms English Community ([https://discord.gg/FKDeJ5Q](https://discord.gg/FKDeJ5Q)). We are currently in process of making content for this Wiki and structuring pages. Our progress is as follow:
 
-You can use the [editor on GitHub](https://github.com/Tsukotaku/tsukotaku.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+ - *Beginner's Guide* = 0%
+ - *Dolls and Enemies* = 1%
+ - *Equip and Upgrades* = 0%
+ - *Events* = 0%
+ - *Gacha* = 0%
+ - *Others* = 3%
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tsukotaku/tsukotaku.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you would like to partecipate and contribute to this website, please join our Discord and contact Head Administrator *Tsu*.
